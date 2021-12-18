@@ -112,7 +112,11 @@ mkdir src/utils
 touch src/utils/file-uploading.utils.ts
 ```
 
-To start the app, you can now execute npm run start:dev in your terminal.
+To start the app, you can now execute `npm run start:dev` in your terminal.
+
+```java
+npm run start:dev
+```
 
 ## Uploading Files
 Now that you have completed the setup process, you can go ahead and start implementing the actual functionality. Let’s start by importing the MulterModule in your AppModule so you can use Multer in your other files.
