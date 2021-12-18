@@ -2,7 +2,6 @@
 
 https://tkssharma.com/file-upload-feature-using-nestjs/
 
-# File Upload Feature using NestJS with Multer
 By Tarun Sharma @tkssharma
 
 June 27th, 2020 
