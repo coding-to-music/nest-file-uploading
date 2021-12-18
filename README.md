@@ -73,7 +73,7 @@ $ npm run test:cov
 
 ### How to develop a simple file-uploading app
 
-![NestCat](https://miro.medium.com/max/1873/1*6p-pC_pAQJmxBwcjyJjpCQ.png)
+![NestCat](https://github.com/coding-to-music/nest-file-uploading/blob/main/nestJS-cat.png?raw=true)
 
 This guide will show you how you can implement file uploading into your NestJS application and the things you should keep in mind when doing so. You will develop an application with three endpoints that will do the following:
 
